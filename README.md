@@ -1,0 +1,2 @@
+# yikayici
+Akıllı Bulaşık Makinası
